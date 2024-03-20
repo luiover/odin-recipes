@@ -23,4 +23,5 @@ N/A
 # Acknowledgements
 
 All the recipes featured are carefully selected from [AllRecipes](https://www.allrecipes.com/)
+
 You can find the dishes images from [Unsplash](https://www.unsplash.com/)
