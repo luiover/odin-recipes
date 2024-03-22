@@ -7,18 +7,23 @@ A basic recipe website created as part of [The Odin Project](https://www.theodin
 
 - [x] Find new recipes
 - [x] Browse between sections
+- [x] Try it out now
 
 ## Technologies used
 
-This project is made only with HTML5. \**Looking forward adding CSS...*\*
+This project is made entirely with HTML5. \**Looking forward adding CSS... 🚧*\*
 
 ## Features
 
-Coming soon...
+- Easy Custom Index
+- 3 unique dishes to explore
+- Ingredients needed Included
+- Step by step procedure
+- An image of the finished product
 
 ## Live Demo
 
-N/A
+Jump straightforward to my [website](https://luiover.github.io/odin-recipes/) and go look for new dishes that you'll probably enjoy!
 
 # Acknowledgements
 
