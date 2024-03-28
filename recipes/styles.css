@@ -1,0 +1,48 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    background-color: rgb(252, 161, 51);
+}
+
+h2 {
+    color: rgb(252, 161, 51);
+    font-size: 35px;
+}
+
+p {
+    font-size: 25px;
+    color: #4d4d4dec;
+}
+
+li {
+    font-size: 20px;
+    color: #312636;
+}
+
+a {
+    color: #e73636;
+    font-size: 124%;
+}
+
+ol>li {
+    color: #5c4545;
+}
+
+ol>li::marker {
+    color: #b99d1e;
+    font-weight: 800;
+}
+
+em {
+    color: rgb(151, 17, 17);
+    font-weight: 600;
+}
+
+strong {
+    color: rgb(40, 173, 36);
+}
