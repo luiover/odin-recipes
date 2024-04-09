@@ -1,0 +1,45 @@
+*,*::before,*::after { box-sizing: border-box; } /* Apply a reset */
+
+body {
+    /* Apply a reset */
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    
+    font-family: 'Rubik', 'Open Sans', sans-serif;
+    font-size: 16px;
+
+    margin: 5rem;
+    
+    background-color: #03253b;
+}
+
+.container {
+    background-color: #12364e;
+    padding: 4em 4em;
+}
+
+.title {
+    color: #ffffff;
+    font-size: 3.5em;
+    text-align: center;
+    margin: 0;
+    padding: .3em;
+    
+    background-color: rgb(57, 91, 95);
+}
+
+.pages {
+    color: #e8e9c8;
+    background-color: #12405f;
+    padding: 3em;
+}
+
+.page {
+    color: #e8e9c8;
+    display: block;
+    font-size: 2em;
+    width: 480px;
+
+    padding: .3em;
+}
